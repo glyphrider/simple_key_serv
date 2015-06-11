@@ -1,2 +1,3 @@
-# simple_key_storage
-A simple key storage service written in Erlang with webmachine.
+# simple_key_serv
+
+A simple key service written in Erlang with webmachine.
